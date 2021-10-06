@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 20 18:45:05 2020
-
-@author: sudhanshukumar
-"""
 
 import numpy as np
 from keras.models import load_model
